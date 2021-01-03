@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="jvm_test" target="1.5" />
+      <module name="jvm_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
